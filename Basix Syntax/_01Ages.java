@@ -16,7 +16,7 @@ public class _01Ages {
 			System.out.println("teenager");
 		} else if(age >= 20 && age <= 65) {
 			System.out.println("adult");
-		} else if(age >= 66){
+		} else if(age >= 66){ 
 			System.out.println("elder");
 		}
 	}
