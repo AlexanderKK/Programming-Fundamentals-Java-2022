@@ -1,5 +1,4 @@
 package _01BasicSyntax_Exercise;
-
 import java.util.Scanner;
 
 public class _01Ages {
